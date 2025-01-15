@@ -14,4 +14,4 @@ def word_to_mp3(word_file, output_mp3):
     print(f"MP3 file saved as: {output_mp3}")
 
 # Example usage
-word_to_mp3("tester.docx", "output.mp3")
+word_to_mp3("input.docx", "output.mp3")
